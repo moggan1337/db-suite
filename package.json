@@ -1,0 +1,11 @@
+{
+  "name": "db-suite",
+  "version": "1.0.0",
+  "description": "Database Suite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "moggan1337",
+  "license": "MIT"
+}
